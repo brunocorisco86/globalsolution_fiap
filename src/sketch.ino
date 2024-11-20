@@ -13,16 +13,6 @@ const int buzzer = 16;
 #define NOTE_F4  349
 #define NOTE_C5  523
 #define NOTE_G5  784
-#define NOTE_F5  698
-#define NOTE_C5  523
-#define NOTE_A5  880
-#define NOTE_GS5 831
-#define NOTE_G5  784
-#define NOTE_DS5 622
-#define NOTE_D5  587
-#define NOTE_CS5 554
-#define NOTE_C5  523
-#define NOTE_B4  494
 
 // Configurações de tempo
 const unsigned long TEMPO_LIMITE_BANHO = 5 * 60 * 1000; // 5 minutos
@@ -40,8 +30,8 @@ int melodia[] = {
 };
 
 int duracoes[] = {
-  4, 4, 4, 8, 16,
-  4, 8, 16, 2
+  2, 2, 2, 4, 8,
+  2, 4, 8, 1
 };
 
 // Função para tocar a Marcha Imperial
@@ -78,7 +68,7 @@ void setup() {
 void loop() {
   int distancia = calcularDistancia();
 
-  if (distancia > 0 && distancia <= 100) {
+  if (distancia > 0 && distancia <= 150) { //150 centimetros para o acionamento do trigger
     tratarPresenca();
   } else {
     tratarAusencia();
