@@ -26,15 +26,17 @@
 
 ## 📜 Descrição das etapas do Projeto
 
-### Artificial Intelligence Challenges (AIC) [peso de 10% do entregável]
+### Artificial Intelligence Challenges (AIC)
 
-### Artificial Intelligence with Computer Systems and Sensors (AICSS) [peso de 20% do entregável]
+### Artificial Intelligence with Computer Systems and Sensors (AICSS)
+	Economizador de Água e Energia para o Império - Projeto para a economia de água e energia no chuveiro
+	salvo em [AICSS_VADER_SHOWER.pdf](document/AICSS_VADER_SHOWER.pdf)
 
-### Statistical Computing with R (SCR) [peso de 20% do entregável]
+### Statistical Computing with R (SCR)
 
-### Cognitive Data Science (CDS) [peso de 20% do entregável]
+### Cognitive Data Science (CDS) 
 
-### Computational Thinking with Python (CTWP) [peso de 20% do entregável]
+### Computational Thinking with Python (CTWP) 
 
 ### Ir além (peso de 10% do entregável):
 
