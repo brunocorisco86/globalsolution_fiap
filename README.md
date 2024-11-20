@@ -29,8 +29,8 @@
 ### Artificial Intelligence Challenges (AIC)
 
 ### Artificial Intelligence with Computer Systems and Sensors (AICSS)
-	Economizador de Água e Energia para o Império - Projeto para a economia de água e energia no chuveiro
-	salvo em [AICSS_VADER_SHOWER.pdf](document/AICSS_VADER_SHOWER.pdf)
+- Economizador de Água e Energia para o Império - Projeto para a economia de água e energia no chuveiro
+	-[AICSS_VADER_SHOWER.pdf](document/AICSS_VADER_SHOWER.pdf)
 
 ### Statistical Computing with R (SCR)
 
